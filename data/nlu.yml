@@ -45,6 +45,7 @@ nlu:
     - don't like that
     - no way
     - not really
+    - nevermind
 - intent: mood_great
   examples: |
     - perfect
@@ -83,3 +84,6 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: enter_data
+  examples: |
+    - ros
