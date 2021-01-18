@@ -80,6 +80,7 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+    - pineapples
 - intent: bot_challenge
   examples: |
     - are you a bot?
