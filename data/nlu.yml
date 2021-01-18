@@ -29,6 +29,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - thirsty for juice
 - intent: affirm
   examples: |
     - yes
